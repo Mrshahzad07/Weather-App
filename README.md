@@ -11,7 +11,7 @@ Dynamic Background: Backgrounds change based on weather conditions.
 **Technologies Used**
 Frontend: HTML, CSS, JavaScript.
 API: Fetches data from the OpenWeather API.
-Styling: CSS animations for weather icons, day/night themes.
+Styling: CSS animations for weather icons.
 
 ![Screenshot 2024-11-09 152740](https://github.com/user-attachments/assets/ec26ddf2-28a3-4006-96a5-42c79556978c)
 ![Screenshot 2024-11-09 152723](https://github.com/user-attachments/assets/22b9a8e1-fd40-4811-8ac2-25a8bdfce62c)
