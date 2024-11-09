@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="animated-bg">
+            <img src="sun-svgrepo-com.svg" alt="Weather Icon" id="weatherIcon" class="weather-icon">
+        </div>
+        <h1 class="title">Weather App</h1>
+        <div class="search-box">
+            <input type="text" id="locationInput" placeholder="Enter a city" class="input-field">
+            <button id="searchButton" class="search-btn">Search</button>
+        </div>
+        <div class="weather-info fade-in">
+            <h2 id="location"></h2>
+            <p id="temperature"></p>
+            <p id="description"></p>
+            <p id="windSpeed"></p>
+            <p id="humidity"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
